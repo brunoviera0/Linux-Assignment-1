@@ -8,7 +8,7 @@ Create a simple Linux Shell Program that takes in two arguments from the user (b
 
 Exercise 2: Factorial
 
-Create a Linux Shell Program that gets the factorial of a number provided by the user, using for loops.
+Create a Linux Shell Program that gets the factorial of a number provided by the user, using a for loop.
 
 
 
