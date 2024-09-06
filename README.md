@@ -6,6 +6,12 @@ Create a simple Linux Shell Program that takes in two arguments from the user (b
 
 
 
-Exercise 2: Voting Age
+Exercise 2: Factorial
+
+Create a Linux Shell Program that gets the factorial of a number provided by the user, using for loops.
+
+
+
+Exercise 3: Voting Age
 
 Create a Linux Shell Program that asks the user their age and then runs a conditional check to determine if the user is old enough to vote. Store this code in voting_check.sh, and save the results in voting_check_results.txt.
