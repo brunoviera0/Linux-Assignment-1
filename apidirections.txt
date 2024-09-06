@@ -1,0 +1,51 @@
+assignment:
+
+Create a shell script that allows users to search for sports data using the Google Search API. The script should prompt users for the sport category, team, and player, and then display any relevant information.
+
+
+
+step 1:
+sign into the cloud
+
+step 2:
+launch the console
+
+step3:
+click on API's and Services on the left
+
+step4:
+click '+ enable apis services" search and search Custom Search API and enable it. 
+
+
+step5:
+you will need a search engine ID:
+click on the link in the search engine ID section, click add.
+name your search engine assignmentone, enter the domain you may choose:
+example: https://www.espn.com/
+and then click create
+go back, click on your search engine, and copy the search engine ID and place it in a variable named CX
+step 5:
+
+open a new file and title it "assignmentone.sh"
+
+
+step6:
+-add #!/bin/bash to specify that the script should be run through the shell
+-add a variable named apikey and paste your api key as a string
+
+step7:
+create a search_sports function that:
+-takes sports, team, and player as arguments. 
+-construct a search query using these inputs
+-make a request to google custom search apikey
+-store results in a result variable
+
+
+step8:
+create a user input:
+prompt the user for the sport, team, and player we will search for
+call the search sports function
+
+step9:
+open shell in correct directory and run this cmd:
+chmod +x assignmentone.sh
