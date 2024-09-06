@@ -1,5 +1,5 @@
 
-# !/bin/bash
+#!/bin/bash
 
 echo "enter any number"
 read num #read number from user
