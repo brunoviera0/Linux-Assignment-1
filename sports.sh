@@ -1,8 +1,8 @@
 #!/bin/bash
 
 # Replace with your actual API key and Search Engine ID
-apikey="AIzaSyAjUUYNej6Se99ER8rsXrnVjmKwiMKSnlI"
-cx="c5cc70355546a46bf"
+apikey="yourapikey"
+cx="searchengineid"
 
 # Function to search sports data
 search_sports() {
